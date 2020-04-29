@@ -1,0 +1,9 @@
+D:\DesafioCasaPopular\DesafioCasaPopular\Commons\bin\Debug\Commons.dll
+D:\DesafioCasaPopular\DesafioCasaPopular\Commons\bin\Debug\Commons.pdb
+D:\DesafioCasaPopular\DesafioCasaPopular\Commons\bin\Debug\Core.dll
+D:\DesafioCasaPopular\DesafioCasaPopular\Commons\bin\Debug\Core.pdb
+D:\DesafioCasaPopular\DesafioCasaPopular\Commons\obj\Debug\Commons.csprojAssemblyReference.cache
+D:\DesafioCasaPopular\DesafioCasaPopular\Commons\obj\Debug\Commons.csproj.CoreCompileInputs.cache
+D:\DesafioCasaPopular\DesafioCasaPopular\Commons\obj\Debug\Commons.csproj.CopyComplete
+D:\DesafioCasaPopular\DesafioCasaPopular\Commons\obj\Debug\Commons.dll
+D:\DesafioCasaPopular\DesafioCasaPopular\Commons\obj\Debug\Commons.pdb

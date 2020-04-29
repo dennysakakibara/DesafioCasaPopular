@@ -1,0 +1,16 @@
+D:\DesafioCasaPopular\DesafioCasaPopular\Repository\bin\Debug\Repository.dll.config
+D:\DesafioCasaPopular\DesafioCasaPopular\Repository\bin\Debug\Repository.dll
+D:\DesafioCasaPopular\DesafioCasaPopular\Repository\bin\Debug\Repository.pdb
+D:\DesafioCasaPopular\DesafioCasaPopular\Repository\bin\Debug\Core.dll
+D:\DesafioCasaPopular\DesafioCasaPopular\Repository\bin\Debug\EntityFramework.dll
+D:\DesafioCasaPopular\DesafioCasaPopular\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\DesafioCasaPopular\DesafioCasaPopular\Repository\bin\Debug\LinqKit.dll
+D:\DesafioCasaPopular\DesafioCasaPopular\Repository\bin\Debug\Core.pdb
+D:\DesafioCasaPopular\DesafioCasaPopular\Repository\bin\Debug\EntityFramework.xml
+D:\DesafioCasaPopular\DesafioCasaPopular\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\DesafioCasaPopular\DesafioCasaPopular\Repository\bin\Debug\LinqKit.xml
+D:\DesafioCasaPopular\DesafioCasaPopular\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+D:\DesafioCasaPopular\DesafioCasaPopular\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+D:\DesafioCasaPopular\DesafioCasaPopular\Repository\obj\Debug\Repository.csproj.CopyComplete
+D:\DesafioCasaPopular\DesafioCasaPopular\Repository\obj\Debug\Repository.dll
+D:\DesafioCasaPopular\DesafioCasaPopular\Repository\obj\Debug\Repository.pdb

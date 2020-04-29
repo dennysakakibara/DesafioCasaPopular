@@ -1,0 +1,6 @@
+D:\DesafioCasaPopular\DesafioCasaPopular\Core\bin\Debug\Core.dll
+D:\DesafioCasaPopular\DesafioCasaPopular\Core\bin\Debug\Core.pdb
+D:\DesafioCasaPopular\DesafioCasaPopular\Core\obj\Debug\Core.csprojAssemblyReference.cache
+D:\DesafioCasaPopular\DesafioCasaPopular\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\DesafioCasaPopular\DesafioCasaPopular\Core\obj\Debug\Core.dll
+D:\DesafioCasaPopular\DesafioCasaPopular\Core\obj\Debug\Core.pdb
